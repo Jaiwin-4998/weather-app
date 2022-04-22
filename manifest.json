@@ -1,7 +1,7 @@
 {
   "name": "weatherapp",
   "short_name": "weatherapp",
-  "start_url": "https://dev.localhost/",
+  "start_url": "https://jaiwin-4998.github.io/weather-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
